@@ -1,36 +1,77 @@
-<h1 align="center">Hi 👋, I'm Mariia</h1>
-<h3 align="center">A passionate backend developer from the United States</h3>
+<h1 align="center">Hi there! 👋 I'm Mariia</h1>
+<h3 align="center">Senior Backend Developer | Cybersecurity Specialist | Blockchain Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Cat" width="300">
+  <img src="https://cataas.com/cat/gif" alt="Coding Cat" width="400">
 </p>
 
-- 🔭 I’m currently working on **Developing a cryptocurrency trading bot with Python.**
+### About Me
+I am a passionate developer from the United States with a strong background in cybersecurity and backend development. I specialize in Python, Java, and Solidity and am currently exploring blockchain technology beyond cryptocurrencies.
 
-- 🌱 I’m currently learning **Exploring blockchain technology beyond cryptocurrencies, focusing on smart contract development and decentralized applications (dApps) using Web3.py and Solidity.**
+### 🚀 Technical Skills
 
-- 👯 I’m looking to collaborate on **Building a decentralized finance (DeFi) application for yield farming.**
+**Programming Languages:**
+- Python
+- Java
+- Solidity
 
-- 📫 How to reach me **Reach out to me at mariisokk@gmail.com for any inquiries or collaboration opportunities.**
+**Backend Development:**
+- Node.js
+- Nest.js
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/libermanmaria.a" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="libermanmaria.a" height="30" width="40" />
-  </a>
-</p>
+**Databases:**
+- MongoDB
+- Oracle
+- SQLite
+- MySQL
+- PostgreSQL
+- Redis
+- Elasticsearch
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <!-- Add more tools and languages here -->
-</p>
+**Data Visualization:**
+- Grafana
 
+**DevOps:**
+- AWS
+- Kubernetes
+- Docker
+- Bash
+- Jenkins
+
+**Backend as a Service (BaaS):**
+- Firebase
+
+**Frameworks:**
+- Django
+- Flask
+
+**Other Tools & Technologies:**
+- Adobe Illustrator
+- Photoshop
+- Figma
+- Linux
+- Git
+- Arduino
+
+### 🌱 Currently Learning
+- Exploring blockchain technology beyond cryptocurrencies, focusing on smart contract development and decentralized applications (dApps) using Web3.py and Solidity.
+
+### 👯 Open to Collaboration
+- **Project:** Building a decentralized finance (DeFi) application.
+  - **Description:** Developing innovative solutions in the DeFi space, focusing on yield farming and liquidity mining.
+  - **Tech Stack:** Solidity, Web3.py, Django
+
+### 🔭 Current Work
+- **Project:** Cryptocurrency Trading Bot
+  - **Description:** Implementing algorithmic trading strategies and integrating with various cryptocurrency exchanges using Python.
+
+### 📫 How to Reach Me
+- **Email:** [mariisokk@gmail.com](mailto:mariisokk@gmail.com) for any inquiries or collaboration opportunities.
+
+### 💬 Fun Fact
+I have a collection of cat-themed programming socks! 🧦🐱
+
+### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsokk&show_icons=true&locale=en&layout=compact" alt="mrsokk" />
 </p>
