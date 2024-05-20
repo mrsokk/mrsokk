@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | Cybersecurity Specialist | Blockchain Enthusiast</h3>
 
 <p align="center">
-  <img src="https://cataas.com/cat/gif" alt="Coding Cat" width="400">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Programming Cat" width="400">
 </p>
 
 ### About Me
@@ -84,5 +84,4 @@ I am a passionate developer from the United States. I specialize in Python, Java
 ### 📫 How to Reach Me
 - **Email:** [mariisokk@gmail.com](mailto:mariisokk@gmail.com) for any inquiries or collaboration opportunities.
 
-### 💬 Fun Fact
-I have a collection of cat-themed programming socks! 🧦🐱
+
