@@ -1,12 +1,12 @@
 <h1 align="center">Hi there! 👋 I'm Mariia</h1>
-<h3 align="center">Senior Backend Developer | Cybersecurity Specialist | Blockchain Enthusiast</h3>
+<h3 align="center">Backend Developer | Cybersecurity Specialist | Blockchain Enthusiast</h3>
 
 <p align="center">
   <img src="https://cataas.com/cat/gif" alt="Coding Cat" width="400">
 </p>
 
 ### About Me
-I am a passionate developer from the United States with a strong background in cybersecurity and backend development. I specialize in Python, Java, and Solidity and am currently exploring blockchain technology beyond cryptocurrencies.
+I am a passionate developer from the United States. I specialize in Python, Java, and Solidity and am currently exploring blockchain technology beyond cryptocurrencies.
 
 ### 🚀 Technical Skills
 
